@@ -5,7 +5,12 @@
 Use the timeit and cProfile libraries to find bad code.
 """
 
-__author__ = "???"
+__author__ = 
+            """
+                Corbin Creech, worked with Peyton Glover,
+                got help with cprofile and timeit docs from Jack Detke,
+                got help with refactoring for efficiency from Mike A. Coach
+            """
 
 import cProfile
 import pstats
